@@ -3,3 +3,4 @@
 export(caliche_findr)
 export(helpful_directions)
 export(pit_analysis)
+export(theme_grid7)
